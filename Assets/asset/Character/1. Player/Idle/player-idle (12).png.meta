@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 250
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: player-idle (12)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295d24e20d371a34fbcde3427f42d908
+      internalID: -1441796834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_1
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94196588a7e1b45bb570af7a92a88c
+      internalID: -1283241899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_2
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee70e33c3f08b1843a38266f10c8ac25
+      internalID: 1351047579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_3
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c2e4e2e0d05c4badeb32444a48b34
+      internalID: -515929765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_4
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314b8f2fa57b2047973a89aaa848464
+      internalID: 386653370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_5
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4c09dbd81d04449f80d60e61fe2f3
+      internalID: 270734527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_6
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82d69ec5d4c71478fdc78a92cf4bbc
+      internalID: -1879430786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_7
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137174ae361c154468e3de385e4aa5e3
+      internalID: -1022195611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_8
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8222ea7555ca006409ef802718adc360
+      internalID: 165868180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_9
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d16550fdd22f242a4a86a037811f6f
+      internalID: -897860388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_10
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40feb939add2cd44a97b9092be197136
+      internalID: -857812233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle (12)_11
+      rect:
+        serializedVersion: 2
+        x: 7238
+        y: 0
+        width: 658.25
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a74280fa2fd2546bae76f7c74a29ab
+      internalID: 297637265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +371,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player-idle (12)_0: -1441796834
+      player-idle (12)_1: -1283241899
+      player-idle (12)_10: -857812233
+      player-idle (12)_11: 297637265
+      player-idle (12)_2: 1351047579
+      player-idle (12)_3: -515929765
+      player-idle (12)_4: 386653370
+      player-idle (12)_5: 270734527
+      player-idle (12)_6: -1879430786
+      player-idle (12)_7: -1022195611
+      player-idle (12)_8: 165868180
+      player-idle (12)_9: -897860388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
