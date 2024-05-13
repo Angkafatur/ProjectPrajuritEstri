@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
-  - 
+  - Ground
   - 
   - 
   - 
@@ -40,4 +40,34 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1413565941
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1885510881
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3599346065
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1043841269
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 3761058285
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1565439571
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2990522665
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 2534940437
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 2926286507
+    locked: 0
+  - name: New Layer 10
+    uniqueID: 547853433
     locked: 0
