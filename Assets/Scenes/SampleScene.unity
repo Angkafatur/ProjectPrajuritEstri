@@ -249,7 +249,7 @@ Transform:
   m_GameObject: {fileID: 7756924}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.53, y: -0.58, z: 2.459566}
+  m_LocalPosition: {x: 17.43, y: 1.32, z: 2.459566}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -49189,7 +49189,7 @@ Transform:
   m_GameObject: {fileID: 1510070803}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.28, y: 0.23, z: 0}
+  m_LocalPosition: {x: 2.78, y: 0.31, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -49346,6 +49346,7 @@ GameObject:
   - component: {fileID: 1770559735}
   - component: {fileID: 1770559737}
   - component: {fileID: 1770559738}
+  - component: {fileID: 1770559739}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -49543,6 +49544,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 1770559736}
+  animator: {fileID: 1770559739}
   runSpeed: 40
   rb: {fileID: 1770559732}
 --- !u!114 &1770559736
@@ -49569,7 +49571,19 @@ MonoBehaviour:
   m_CrouchDisableCollider: {fileID: 1770559731}
   OnLandEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1770559735}
+        m_TargetAssemblyTypeName: PlayerMovement, Assembly-CSharp
+        m_MethodName: OnLanding
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   OnCrouchEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -49602,6 +49616,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shotPoint: {fileID: 1510070804}
   arrowPrefab: {fileID: 5156620226040233439, guid: ab781cb67f446c4428a8f0294719e91d, type: 3}
+--- !u!95 &1770559739
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1770559729}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b71e753dec5d55b40adbfc5136a26c95, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1858046777
 GameObject:
   m_ObjectHideFlags: 0
