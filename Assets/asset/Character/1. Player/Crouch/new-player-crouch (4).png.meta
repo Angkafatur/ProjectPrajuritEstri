@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d0603665f97f1cd4f98486bf9e42dde6
+guid: cad6956481df5364b969f8a949322c7c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 120
+  spritePixelsToUnits: 140
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,12 +110,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player-crouch (4)_0
+      name: new-player-crouch (4)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 391
+        width: 451.5
         height: 591
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -124,19 +124,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29105d52551ded64d937d994bb95bbd0
-      internalID: 1285976813
+      spriteID: 2d90825754e95fb4ab0314df52d9112d
+      internalID: -599508512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player-crouch (4)_1
+      name: new-player-crouch (4)_1
       rect:
         serializedVersion: 2
-        x: 391
+        x: 451
         y: 0
-        width: 391
+        width: 451.5
         height: 591
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -145,19 +145,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c13d5fc8af1c1d40a4980e344b85474
-      internalID: 354071171
+      spriteID: d666f9d857e89044d9cddff5686a69fb
+      internalID: -1523732581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player-crouch (4)_2
+      name: new-player-crouch (4)_2
       rect:
         serializedVersion: 2
-        x: 782
+        x: 902
         y: 0
-        width: 391
+        width: 451.5
         height: 591
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -166,19 +166,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd1b9a0fb42425440a5c2077e7b5d89b
-      internalID: -1697342394
+      spriteID: 638f319bf3ac37741b3b169a17723535
+      internalID: 1986565885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player-crouch (4)_3
+      name: new-player-crouch (4)_3
       rect:
         serializedVersion: 2
-        x: 1173
+        x: 1353
         y: 0
-        width: 391
+        width: 451.5
         height: 591
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b394c1dcbb033994281a8a991ba722ef
-      internalID: -525420977
+      spriteID: 721001db460abd443b51f2a0ace4e251
+      internalID: -1951037718
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      player-crouch (4)_0: 1285976813
-      player-crouch (4)_1: 354071171
-      player-crouch (4)_2: -1697342394
-      player-crouch (4)_3: -525420977
+      new-player-crouch (4)_0: -599508512
+      new-player-crouch (4)_1: -1523732581
+      new-player-crouch (4)_2: 1986565885
+      new-player-crouch (4)_3: -1951037718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
