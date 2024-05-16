@@ -18,7 +18,7 @@ public class Arrow : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        enemy enemy = hitInfo.GetComponent<enemy>();
+        Enemy enemy = hitInfo.GetComponent<Enemy>();
         if (enemy != null)
         {
             enemy.TakeDamage(damage);
