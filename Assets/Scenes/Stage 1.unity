@@ -295,6 +295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d14e9504e49d6b4478b4185744a78285, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 7756932}
   health: 100
 --- !u!95 &7756932
 Animator:
@@ -49723,6 +49724,7 @@ MonoBehaviour:
     m_Bits: 256
   attackDamage: 100
   attackRange: 0.66
+  attackRate: 2
 --- !u!1 &1858046777
 GameObject:
   m_ObjectHideFlags: 0
