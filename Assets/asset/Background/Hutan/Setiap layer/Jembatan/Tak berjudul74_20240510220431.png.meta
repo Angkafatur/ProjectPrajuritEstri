@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 300
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,196 +108,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_0
-      rect:
-        serializedVersion: 2
-        x: 3310
-        y: 3724
-        width: 6
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1479ca400ea6e947b37c1d8fbcec8f0
-      internalID: -1678190138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_1
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 2762
-        width: 2400
-        height: 910
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea7acfe1df55dc646b7fe2804fdc0fca
-      internalID: 1260687153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_2
-      rect:
-        serializedVersion: 2
-        x: 1238
-        y: 2686
-        width: 38
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89b2ef13466115749b72bfb84c3492ce
-      internalID: 659687125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_3
-      rect:
-        serializedVersion: 2
-        x: 2788
-        y: 2658
-        width: 40
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb14dd3a9844518498894e34bf6854d3
-      internalID: 2041938003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_4
-      rect:
-        serializedVersion: 2
-        x: 1250
-        y: 1942
-        width: 1574
-        height: 346
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d449781370e43514aab48dc061f40651
-      internalID: -224304614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_5
-      rect:
-        serializedVersion: 2
-        x: 3330
-        y: 1630
-        width: 8
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e685a4e8e7afe864f8cf267f651b198e
-      internalID: 939885645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_6
-      rect:
-        serializedVersion: 2
-        x: 854
-        y: 666
-        width: 2400
-        height: 910
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 192ffd7de26c1d848bde2096a036b513
-      internalID: -628125143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_7
-      rect:
-        serializedVersion: 2
-        x: 1258
-        y: 590
-        width: 40
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab7ff45ab11487344b10c4ffb9e9f7ab
-      internalID: 175098358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Tak berjudul74_20240510220431_8
-      rect:
-        serializedVersion: 2
-        x: 2810
-        y: 562
-        width: 38
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d919362a553dea24aa539157114e0167
-      internalID: 276351631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -308,16 +119,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Tak berjudul74_20240510220431_0: -1678190138
-      Tak berjudul74_20240510220431_1: 1260687153
-      Tak berjudul74_20240510220431_2: 659687125
-      Tak berjudul74_20240510220431_3: 2041938003
-      Tak berjudul74_20240510220431_4: -224304614
-      Tak berjudul74_20240510220431_5: 939885645
-      Tak berjudul74_20240510220431_6: -628125143
-      Tak berjudul74_20240510220431_7: 175098358
-      Tak berjudul74_20240510220431_8: 276351631
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
