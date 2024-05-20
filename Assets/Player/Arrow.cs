@@ -5,7 +5,7 @@ using UnityEngine;
 public class Arrow : MonoBehaviour
 {
     public int damage = 20;
-    public float speed = 20f;
+    public float speed = 15f;
     public Rigidbody2D rb;
 
 

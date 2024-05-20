@@ -9,14 +9,22 @@ public class PlayerWeapon : MonoBehaviour
 
     public Animator animator;
 
+    public float shotRate = 2f;
+    float nextShotTime = 0f;
+
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if(Time.time > nextShotTime)
         {
-            Shoot();
+            if (Input.GetButtonDown("Fire1"))
+            {
+                Shoot();
+                nextShotTime = Time.time + 1 / shotRate;
+            }
         }
+       
     }
 
     void Shoot()
