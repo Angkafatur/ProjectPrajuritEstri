@@ -7,6 +7,8 @@ public class PlayerWeapon : MonoBehaviour
     public Transform shotPoint;
     public GameObject arrowPrefab;
 
+    public Animator animator;
+
 
     // Update is called once per frame
     void Update()
@@ -19,6 +21,7 @@ public class PlayerWeapon : MonoBehaviour
 
     void Shoot()
     {
+        animator.SetTrigger("pRanged");
         Instantiate(arrowPrefab, shotPoint.position, shotPoint.rotation);
     }
 }

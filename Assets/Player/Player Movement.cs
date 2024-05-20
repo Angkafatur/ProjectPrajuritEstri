@@ -53,6 +53,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.LeftShift) && canDash)
         {
             StartCoroutine(Dash());
+            animator.SetBool("isDashing", true);
         }
 
     }
