@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,4627 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_0
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2554f9eb11f17b4eb999fd6e391dcee
+      internalID: 1690109781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_1
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e80b3d732742a45ac2502dc85503b6
+      internalID: 2065867604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_2
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25137a78273579c40b2b02c62bb58669
+      internalID: 1428086938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e2ecfc7a522c47ba9710d67125e26
+      internalID: -1489187556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_4
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843086565535cdd40a651030065308e8
+      internalID: 1652777029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfbe08bb1d4a6f4ebba4263c9a144a9
+      internalID: 1241482855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ff28089f3a44e4aa0539c8854c06c6
+      internalID: -1467270625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_7
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6163a6dca991dc549ba5fb0aac5a0899
+      internalID: -1192565021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_8
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6f48c3df5b2c644a1ecacc313cb2c8
+      internalID: -1393822740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_9
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7cd2a9ece28a1479731ff41c78d7e7
+      internalID: -1064386385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_10
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed896d05aa014408d332082de986b9
+      internalID: -1637061830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5afb365c243bb488a0bc502f3c56bb
+      internalID: -360833324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc3b5aaf22cb745bfb0706f7326cf9
+      internalID: 1493408843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_13
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4021c6e683894884b31515a4f6dc6
+      internalID: -313796566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_14
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e044e92e7f2827b488fc2642e7f5a4a8
+      internalID: -1994282881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_15
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8750da9fea71469896a2d6911c2b2
+      internalID: -1452532436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_16
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2b43ea605df7449d8b5d39dc6802c
+      internalID: 62579389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08073211657b6a646bf25cacd37b6a7a
+      internalID: -743646347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_18
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c793597b268fb7f4d86aaa6531767c5c
+      internalID: 743417484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_19
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c6ea214294c3e4391da277ea35925a
+      internalID: 1530825374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_20
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f8411bd19b4cd4091f70dd92b58fe0
+      internalID: 787482533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_21
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aaab22cc77bbd47a124dec503e0812
+      internalID: 137351256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_22
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243334774f57a904697726ed1d1e90c9
+      internalID: 1614519441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbffcb12a5d8da489fe64719d9d5ace
+      internalID: 2141454232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_24
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d03017c32501241ac1d36ceed3b739
+      internalID: -658821438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_25
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78c1a05f9ddf441a84c26b7272befc
+      internalID: 845984163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_26
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc684aebca417904791e6c65f11740d0
+      internalID: -211366789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c40fe2ae919f46a9c860e168370a9
+      internalID: -141611289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_28
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6101f401a9f519341960ed731618c265
+      internalID: 1368797440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a212887c2d0e6449a575cd3c40e6cc
+      internalID: -1578767406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0f43095d63dd44a27f0410599bd90
+      internalID: -1825608047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f0cdcb2faa154992be503b0ff64a2
+      internalID: -497170769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_32
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487dba351b2eb03488ddee318bb0f468
+      internalID: 1232320909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_33
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c756eac5605e0c4aa9dfcace276b7d1
+      internalID: 1923930219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef2850b60e9124e9257ab49686fb8e
+      internalID: 159658870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65d8a7fb9e53b5438dd50c0dea9e53c
+      internalID: 246339414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06613e77486674c439ca5597d84bcdb8
+      internalID: 564600022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d52298a88708e43a56e1162d919fba
+      internalID: 1485207357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_38
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661744985fb1cf489304dc7eba12292
+      internalID: 617775405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_39
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b43b2f5392032e49b54ad0891d8aafd
+      internalID: -1593167276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_40
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa44375994fbc44fac48510d91b80d3
+      internalID: -1956314093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_41
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc13f1e68f5084428ab0b2e0db9dc12
+      internalID: 1649217473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb7313c21f32f47b3213ef4aed86b3
+      internalID: 340181952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25204fb4696963c46a36c3039a7b39db
+      internalID: -1209092725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0e9bf81900374ebb6cbfe40b5fef1
+      internalID: -1819740683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9cdafe9b383e0499b84df43235e723
+      internalID: -706048906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e806c8ef54f0a6489d27342596341ac
+      internalID: 1734048058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0fcdc1c23d51242b034c57baa1818b
+      internalID: -1810607095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_48
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c160070d16b0042b6277a362d6b8e3
+      internalID: 706118188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_49
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ce4311bf9647a419d67b028c8102a0
+      internalID: 100413240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_50
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8480bd0ee026dca45a63a2d12358a5ab
+      internalID: -1802736643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_51
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc2025405635544b9e64331e5f9cd6b
+      internalID: -187527701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_52
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5422a2eab23b54fb104285fc967829
+      internalID: 1402447553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384f86095fa7d8498c6f5ae9ebd5d34
+      internalID: 805458344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_54
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298f663129717e4f9e21e5032b42870
+      internalID: -565858872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_55
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da515eba05033640b0aabf523ff3ba2
+      internalID: 1500112465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_56
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25e215e0c1e074ba83565f01b376ef
+      internalID: 2085124685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_57
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb043aaea66225144be5268b5c1ed887
+      internalID: -1599553523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246baeb764e651f4f81bf3060eb5bf67
+      internalID: 1948833767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8c14380cca594e92ac0d0f2e62c87
+      internalID: -102790544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032ea87f4c4e2db47a59080ec8faab3e
+      internalID: 997927595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f917a65ae4e8240883847758327759
+      internalID: -1368482905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392bb9ec3482fbc4b8cc3ef45d62e6df
+      internalID: -1914538570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_63
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc1c7c3f768d7346aa952fc3f6ab127
+      internalID: -2144859468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_64
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6088851f9fe68478d7dfb284d1919a
+      internalID: 2032034873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a7212b8b4a2b488ce2440465509e4
+      internalID: 527142919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_66
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c55b3e84ac81e547b265ffde8be8f95
+      internalID: -1685925815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_67
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040d40f10b74364bb9f489dc17cc648
+      internalID: -1296041743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_68
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664d9afb39e39f47bc542681ad63c1a
+      internalID: -57389293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_69
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917edc4ac910dce4d949e00cbe820396
+      internalID: 1921513811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_70
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca0bf8faa01b3d4c97937db42119236
+      internalID: -323825908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_71
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a56135854f1bf04e9c412cc8f8844e6
+      internalID: -1754037089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_72
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd192f6d6e07844f876b8d39cc03c7f
+      internalID: -211254318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_73
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3daca594a597eb4cb4f045925a1f1a3
+      internalID: 1524034038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_74
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69319146f5d6b4ca65269e431740cc
+      internalID: -1080449146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_75
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f9a70313d8784daef570ba344eaf7
+      internalID: 1043604736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_76
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d8e4d9cb695747a964f48f4812322
+      internalID: -1858397289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_77
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86000e6b5cbcba7499b980c87db49f22
+      internalID: -927592793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_78
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c371627804cd34c935ceed2c9b72d6
+      internalID: -1336149531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_79
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49b9cfba962ccd44b8d53cb36dc5e53
+      internalID: -1547048098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_80
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a9671469244684eb7fddaa540b9765
+      internalID: -1395618084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_81
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8ee0b6ba1f5c4f8d41df7be72acf2
+      internalID: 1819627588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_82
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dfa14d34379334d87215bb8cb9ad61
+      internalID: -1435703780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_83
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b73cecaab8bcd4ab3983945fbbcf00
+      internalID: -1375352388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_84
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872ba04f489f0d4897fca7305ad1ccd
+      internalID: -1626485011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2525862b8033449b22573fb1d36acc
+      internalID: 1176482699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675e4934ae14a524dad0e792c27c623b
+      internalID: 891433273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_87
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d0168b5c47e094997d542898e2b1e6
+      internalID: 131873921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_88
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2784730ecd355ee4dbe2fd4b7d23bbb9
+      internalID: -1155384048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_89
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8c12d45de96a44c97e1f382557c435
+      internalID: 1576562092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_90
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840299c4603e6245b18e14b529b937d
+      internalID: 251334508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_91
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ef028b0955be45b83d69701cffc2f
+      internalID: 2143117835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dbbf4fa414704448b72d58ac9eb8e5
+      internalID: -1263062554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_93
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab117af6e3bb7541a51cd2957939cd2
+      internalID: 2015781952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_94
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4371c48d25a47864c886d334f41e2731
+      internalID: -1418526715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_95
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef98d5bbe0cf70444ae513bcff9f1e81
+      internalID: -1855749245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75dce326fbf6fc4293cbe86eb02168f
+      internalID: -1434917367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_97
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6214af0859ff40642bf5ddaca71c2b40
+      internalID: 1205717075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_98
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af71544248389c84dae3cf8a64c55741
+      internalID: -876147919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_99
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0140ae71b3a0a4c8c7e20c33153bb5
+      internalID: -1244019628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_100
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fa6e2e3c3abca4b9a015ac9ab86062
+      internalID: 1779217528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_101
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238690859b3f7ae4986ecd5b16b4f107
+      internalID: -871162009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_102
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a61ca616a1344cafc3ead57b31c86
+      internalID: 504187156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_103
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30df5e0a648cd24e91a8cc2c079b1d7
+      internalID: 1857658082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_104
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d16b540e2baa247899efbe18258b0f
+      internalID: -1488956861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_105
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251fcf8cfb8fa8488dc2ad5aab58279
+      internalID: 1769260311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_106
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4136f079420aaf4fab5b23d88550ac0
+      internalID: -593514805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_107
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742fbce8c169ead41804fcbf2d9ede14
+      internalID: -937442752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_108
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f683567f8421f419f55917cb0838a9
+      internalID: 1404990754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_109
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98227a40b370424aa1fe92de7fcd18e
+      internalID: 1930813038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_110
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b7d6dcd97e1404493a8d8540e62771
+      internalID: -480266589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_111
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4492e7e14d8d16d489de3d5902aa1bfa
+      internalID: -328235400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316fc40bff3d56549a5e23115a2dec6e
+      internalID: 555885928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6500180537744f4590e0304a365fbd9
+      internalID: 1751603738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d74bcd48eb468640afacf5bfa2b93f7
+      internalID: 306534644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_115
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5ef05f1683114892afc2e88547047
+      internalID: -526712572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_116
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef59e1b4bdf6fc46af178f9741da46e
+      internalID: 190923750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_117
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1ecb0cdf83314b894cbd648d09eb9
+      internalID: 1342774026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_118
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9140428beb9e2164a995c6ed029fd05a
+      internalID: -1406063551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_119
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19bf8b8f0a17147a059ae589ccf8e0
+      internalID: 642996258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_120
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19c1ac50909304c85705a9b9e79c9d
+      internalID: 606396004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_121
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36917c82878e09440a6ff9306dce0c6d
+      internalID: 1739855585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_122
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4747a223b021c4e8f29d93199c873e
+      internalID: -623085179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_123
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d97d0fa1a82e5448b5e7f0880658a21
+      internalID: -2084098233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_124
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0b44fc54e768489fcfe5681f789f7
+      internalID: 1936313472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785c319060353ae45bd206a1c0d75ec9
+      internalID: 389690384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_126
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a550515cad366e42b87b0fbb5830588
+      internalID: -529152665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87ec29fdcd484240b66f32f4bd57200
+      internalID: -1199363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_128
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a20fe6fbddd3344e88365e2b6888f6d
+      internalID: -2140578499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_129
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472cb2f1311e3ec43a63ab01ad56ccd2
+      internalID: -1612216238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_130
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19405f3fdb2fe4dad1a5dc34036b0a
+      internalID: 1410900339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_131
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced0816796f56840aa0d039919131b9
+      internalID: -936892723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_132
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58db43030ba3c478b90fe6833fa7a1
+      internalID: 925077603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_133
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11bd6161c9b214e821cabce97ae15b
+      internalID: -1620489515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_134
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81febebf5c654b84ea348315e952e72d
+      internalID: 332156309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_135
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f77f4c3bc10472499d4ba442189afb9
+      internalID: 119834065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_136
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c3afa6bccbba4d97acb538a5b7cf4
+      internalID: 823026667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_137
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0564a3d4bc7b84e89daaa691362de2
+      internalID: -1133462355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_138
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946a291e80d103744954f01fefe90cd0
+      internalID: 493384663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_139
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77379fa528d70be45adac2e0065f7772
+      internalID: -973710480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf7c8e0d6fb42f41a531ff62015fde6
+      internalID: -1842218772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d4f355e79d8e44bb0dddd6a6223e5
+      internalID: -1794542535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4f9b5d3439ce4bb136f71cbc663c3
+      internalID: -292707034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_143
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb6de6570812748beeae80865caaa2
+      internalID: 1292428492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_144
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606766b72708a9b42bd7a3d2faaf2420
+      internalID: 56253705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_145
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d9e4063aee042488448f71be017e6c
+      internalID: 1282129020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_146
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f99a2eb4c73d24abb88d9f7cdc66da
+      internalID: 217431644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_147
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10cbb5aedc83343bd06aa5399dea50
+      internalID: -1144114240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_148
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e54c6ab1abdd741ab0d02405ef3f64
+      internalID: -1823723245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_149
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122027995b3efde4684592bde32ce4d6
+      internalID: 1749725976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df75a84b6725c4e9ad81d44456fb6c
+      internalID: -1405983153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_151
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60999d7f0e23de649bda9875d4936130
+      internalID: -584963730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_152
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b7e82f2e52e984aaac461886a5116d
+      internalID: -1814757559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_153
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3df3ad4532e3147a784f8912b27fea
+      internalID: -1954968213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_154
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cdb545bc5dc4438cecc88613d7d23
+      internalID: -1049762073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_155
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8608385c0d0db74faf7eb86aaa196e4
+      internalID: 1645412374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_156
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893bba396f925704e9abd9076bb28f96
+      internalID: -1069960706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_157
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c62c9a5c7e7d9499134b5bd2d12cf6
+      internalID: -1352997632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_158
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d513c7cb8c2445bd5f23b1004336c
+      internalID: -226736052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_159
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a4701f96ab764491e2c66eb554f09
+      internalID: -122793409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_160
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fd341be5432d2449410280dead26e3
+      internalID: 118463402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_161
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3765901b0b584c74c82a1763f041fb32
+      internalID: 521304260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_162
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5551ab134c6154ab71c2a8669f834a
+      internalID: 555893289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_163
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93821d56a43e1458f6d5a3ac65d9b8
+      internalID: -1969621970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_164
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423414fd21ab02c4d8f57e0542902b5f
+      internalID: 2137573891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_165
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f420f89316d844cb5641ea239937c0
+      internalID: 734312587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_166
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05be27e962136b04e976a94d63ce8652
+      internalID: -607934570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_167
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e4102bbf168ed41b4e9ce01996aa60
+      internalID: -1534166466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_168
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1433f146b75c924289907c77512afb3
+      internalID: 560987354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_169
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423b51ca550ba54b8c19d1ebf1ab5c2
+      internalID: -1978016848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_170
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ce41b7cddafcc4da17889b68191f46
+      internalID: 1308421848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_171
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72a2e2080dd4024381bcbdf25c0b080
+      internalID: 2064012538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_172
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b26a93f902264ca9f532b6118da79
+      internalID: -1952000224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6365f101fcdc82746a694cf74b43bdb6
+      internalID: 5688811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_174
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cc1d1aa7be9aa4f8fbe6432361b250
+      internalID: 1281611497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_175
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27c1f6eb2519e4ca83cb66b4ebbb8a
+      internalID: -1070004497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_176
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012b4ee8ad379034d80445d7142da909
+      internalID: -934362878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_177
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6eedf6a47f82247ba600def5536518
+      internalID: -1042404888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_178
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab681ebbaccdc8947b8ef2351cf6eb2c
+      internalID: 322017890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_179
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13da109dbec8d5c449451018e5ab1c95
+      internalID: -762366372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_180
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c6833de6a403c44b786cb48186d5c6
+      internalID: 226424133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_181
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e395c231f9441439d3fab75b1e6cbf
+      internalID: 1434360775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_182
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9d336537afd7c4fa3ec5eb67a1f263
+      internalID: 1341880498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_183
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c0cf419cc4d54d810fa702cda78f2
+      internalID: -1845776317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_184
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeffc77c15582dc4396d99bbd0ec5387
+      internalID: -1626065435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_185
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1203099e9fef2574ea8bd389808baea7
+      internalID: 619164010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_186
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36df8d042a5cf4187f6e192765616c
+      internalID: 1675822528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_187
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b35e7fc6a02fa4590955a8be5599c6
+      internalID: -1870659190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_188
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e00e188258b749b3a8b05d4e6c737
+      internalID: -1348202460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_189
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d680c1fd888142820a51f8e850d8f
+      internalID: 945085137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_190
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b28f8fa01b304ba87aabc1aca306c
+      internalID: -198943430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_191
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004350866f86457409b417c6a0c8ac75
+      internalID: 1840011036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_192
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828ff2c09dffab4badf4475e86a81a4
+      internalID: 359978887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_193
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc05509138423894f881e53a4785078d
+      internalID: -123752509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_194
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b89e354707c8841826f1ae76ae38c5
+      internalID: 852333619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_195
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfe206119fb9b44085224996dea5e79
+      internalID: 1189051242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_196
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12272d92ab1f6a24490fc2849e600a12
+      internalID: -2127617830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_197
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80062870d70e0a41a4c23aea2879f9b
+      internalID: -1810578700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_198
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46409cfc3c4d12a4d8db15003be19c45
+      internalID: 1163353885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_199
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e78abb00e969d4f90df819e2473b97
+      internalID: -1698616641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_200
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3d1da6f154684a8b75b50ba6c9352
+      internalID: 355475007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_201
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550789bd7f1bcff46b893070b055bcba
+      internalID: 736440691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_202
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83daaf9531ea08459b3243475652076
+      internalID: 358393964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_203
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f93454f3e42cc4bb0302b1706667d9
+      internalID: 1829852150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_204
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4778f2702f788ba4b9d576edeae48940
+      internalID: -795582737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_205
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df60d5317c83e4d860c4c9d8c0feb6
+      internalID: 1863328530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_206
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7d749cfef0dca4fa450b194ad57e5b
+      internalID: -1389566099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_207
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeea3ff91e8dec41b984c1cd5257f2c
+      internalID: 1056225710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_208
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b3b4d5cf89a34b90d4a00cce8e229
+      internalID: -1970374847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_209
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc931f34d830a114cbc83f1900d04e13
+      internalID: -1937551699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_210
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8650a3332a334c1478f4d865b8e46d2e
+      internalID: -1347548630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_211
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e6e201c5cb5fe4c9880abacd4166f2
+      internalID: 1475244224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_212
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f60adb783dfef478d3e808c875198a
+      internalID: 1703142817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_213
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e99848e6cb32442a7a58f83aba436d
+      internalID: -1915119313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_214
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f4c2515c268e4885d929749e50481
+      internalID: -265917632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_215
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4679d93eee38145bace4a9e1666ea4
+      internalID: -1604021241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_216
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f21751b6d1fb5c49928dc6ec36071cc
+      internalID: -587342398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_217
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40750c807f3d2ad4282e72f1ba697d6c
+      internalID: -420383862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_218
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ff65b7f10d5845b1fc78d75d4a708
+      internalID: 1714572105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tak berjudul136_20240519215518_219
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb003288756fd14181a9ac4c8293274
+      internalID: -1922532585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +4739,227 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tak berjudul136_20240519215518_0: 1690109781
+      Tak berjudul136_20240519215518_1: 2065867604
+      Tak berjudul136_20240519215518_10: -1637061830
+      Tak berjudul136_20240519215518_100: 1779217528
+      Tak berjudul136_20240519215518_101: -871162009
+      Tak berjudul136_20240519215518_102: 504187156
+      Tak berjudul136_20240519215518_103: 1857658082
+      Tak berjudul136_20240519215518_104: -1488956861
+      Tak berjudul136_20240519215518_105: 1769260311
+      Tak berjudul136_20240519215518_106: -593514805
+      Tak berjudul136_20240519215518_107: -937442752
+      Tak berjudul136_20240519215518_108: 1404990754
+      Tak berjudul136_20240519215518_109: 1930813038
+      Tak berjudul136_20240519215518_11: -360833324
+      Tak berjudul136_20240519215518_110: -480266589
+      Tak berjudul136_20240519215518_111: -328235400
+      Tak berjudul136_20240519215518_112: 555885928
+      Tak berjudul136_20240519215518_113: 1751603738
+      Tak berjudul136_20240519215518_114: 306534644
+      Tak berjudul136_20240519215518_115: -526712572
+      Tak berjudul136_20240519215518_116: 190923750
+      Tak berjudul136_20240519215518_117: 1342774026
+      Tak berjudul136_20240519215518_118: -1406063551
+      Tak berjudul136_20240519215518_119: 642996258
+      Tak berjudul136_20240519215518_12: 1493408843
+      Tak berjudul136_20240519215518_120: 606396004
+      Tak berjudul136_20240519215518_121: 1739855585
+      Tak berjudul136_20240519215518_122: -623085179
+      Tak berjudul136_20240519215518_123: -2084098233
+      Tak berjudul136_20240519215518_124: 1936313472
+      Tak berjudul136_20240519215518_125: 389690384
+      Tak berjudul136_20240519215518_126: -529152665
+      Tak berjudul136_20240519215518_127: -1199363
+      Tak berjudul136_20240519215518_128: -2140578499
+      Tak berjudul136_20240519215518_129: -1612216238
+      Tak berjudul136_20240519215518_13: -313796566
+      Tak berjudul136_20240519215518_130: 1410900339
+      Tak berjudul136_20240519215518_131: -936892723
+      Tak berjudul136_20240519215518_132: 925077603
+      Tak berjudul136_20240519215518_133: -1620489515
+      Tak berjudul136_20240519215518_134: 332156309
+      Tak berjudul136_20240519215518_135: 119834065
+      Tak berjudul136_20240519215518_136: 823026667
+      Tak berjudul136_20240519215518_137: -1133462355
+      Tak berjudul136_20240519215518_138: 493384663
+      Tak berjudul136_20240519215518_139: -973710480
+      Tak berjudul136_20240519215518_14: -1994282881
+      Tak berjudul136_20240519215518_140: -1842218772
+      Tak berjudul136_20240519215518_141: -1794542535
+      Tak berjudul136_20240519215518_142: -292707034
+      Tak berjudul136_20240519215518_143: 1292428492
+      Tak berjudul136_20240519215518_144: 56253705
+      Tak berjudul136_20240519215518_145: 1282129020
+      Tak berjudul136_20240519215518_146: 217431644
+      Tak berjudul136_20240519215518_147: -1144114240
+      Tak berjudul136_20240519215518_148: -1823723245
+      Tak berjudul136_20240519215518_149: 1749725976
+      Tak berjudul136_20240519215518_15: -1452532436
+      Tak berjudul136_20240519215518_150: -1405983153
+      Tak berjudul136_20240519215518_151: -584963730
+      Tak berjudul136_20240519215518_152: -1814757559
+      Tak berjudul136_20240519215518_153: -1954968213
+      Tak berjudul136_20240519215518_154: -1049762073
+      Tak berjudul136_20240519215518_155: 1645412374
+      Tak berjudul136_20240519215518_156: -1069960706
+      Tak berjudul136_20240519215518_157: -1352997632
+      Tak berjudul136_20240519215518_158: -226736052
+      Tak berjudul136_20240519215518_159: -122793409
+      Tak berjudul136_20240519215518_16: 62579389
+      Tak berjudul136_20240519215518_160: 118463402
+      Tak berjudul136_20240519215518_161: 521304260
+      Tak berjudul136_20240519215518_162: 555893289
+      Tak berjudul136_20240519215518_163: -1969621970
+      Tak berjudul136_20240519215518_164: 2137573891
+      Tak berjudul136_20240519215518_165: 734312587
+      Tak berjudul136_20240519215518_166: -607934570
+      Tak berjudul136_20240519215518_167: -1534166466
+      Tak berjudul136_20240519215518_168: 560987354
+      Tak berjudul136_20240519215518_169: -1978016848
+      Tak berjudul136_20240519215518_17: -743646347
+      Tak berjudul136_20240519215518_170: 1308421848
+      Tak berjudul136_20240519215518_171: 2064012538
+      Tak berjudul136_20240519215518_172: -1952000224
+      Tak berjudul136_20240519215518_173: 5688811
+      Tak berjudul136_20240519215518_174: 1281611497
+      Tak berjudul136_20240519215518_175: -1070004497
+      Tak berjudul136_20240519215518_176: -934362878
+      Tak berjudul136_20240519215518_177: -1042404888
+      Tak berjudul136_20240519215518_178: 322017890
+      Tak berjudul136_20240519215518_179: -762366372
+      Tak berjudul136_20240519215518_18: 743417484
+      Tak berjudul136_20240519215518_180: 226424133
+      Tak berjudul136_20240519215518_181: 1434360775
+      Tak berjudul136_20240519215518_182: 1341880498
+      Tak berjudul136_20240519215518_183: -1845776317
+      Tak berjudul136_20240519215518_184: -1626065435
+      Tak berjudul136_20240519215518_185: 619164010
+      Tak berjudul136_20240519215518_186: 1675822528
+      Tak berjudul136_20240519215518_187: -1870659190
+      Tak berjudul136_20240519215518_188: -1348202460
+      Tak berjudul136_20240519215518_189: 945085137
+      Tak berjudul136_20240519215518_19: 1530825374
+      Tak berjudul136_20240519215518_190: -198943430
+      Tak berjudul136_20240519215518_191: 1840011036
+      Tak berjudul136_20240519215518_192: 359978887
+      Tak berjudul136_20240519215518_193: -123752509
+      Tak berjudul136_20240519215518_194: 852333619
+      Tak berjudul136_20240519215518_195: 1189051242
+      Tak berjudul136_20240519215518_196: -2127617830
+      Tak berjudul136_20240519215518_197: -1810578700
+      Tak berjudul136_20240519215518_198: 1163353885
+      Tak berjudul136_20240519215518_199: -1698616641
+      Tak berjudul136_20240519215518_2: 1428086938
+      Tak berjudul136_20240519215518_20: 787482533
+      Tak berjudul136_20240519215518_200: 355475007
+      Tak berjudul136_20240519215518_201: 736440691
+      Tak berjudul136_20240519215518_202: 358393964
+      Tak berjudul136_20240519215518_203: 1829852150
+      Tak berjudul136_20240519215518_204: -795582737
+      Tak berjudul136_20240519215518_205: 1863328530
+      Tak berjudul136_20240519215518_206: -1389566099
+      Tak berjudul136_20240519215518_207: 1056225710
+      Tak berjudul136_20240519215518_208: -1970374847
+      Tak berjudul136_20240519215518_209: -1937551699
+      Tak berjudul136_20240519215518_21: 137351256
+      Tak berjudul136_20240519215518_210: -1347548630
+      Tak berjudul136_20240519215518_211: 1475244224
+      Tak berjudul136_20240519215518_212: 1703142817
+      Tak berjudul136_20240519215518_213: -1915119313
+      Tak berjudul136_20240519215518_214: -265917632
+      Tak berjudul136_20240519215518_215: -1604021241
+      Tak berjudul136_20240519215518_216: -587342398
+      Tak berjudul136_20240519215518_217: -420383862
+      Tak berjudul136_20240519215518_218: 1714572105
+      Tak berjudul136_20240519215518_219: -1922532585
+      Tak berjudul136_20240519215518_22: 1614519441
+      Tak berjudul136_20240519215518_23: 2141454232
+      Tak berjudul136_20240519215518_24: -658821438
+      Tak berjudul136_20240519215518_25: 845984163
+      Tak berjudul136_20240519215518_26: -211366789
+      Tak berjudul136_20240519215518_27: -141611289
+      Tak berjudul136_20240519215518_28: 1368797440
+      Tak berjudul136_20240519215518_29: -1578767406
+      Tak berjudul136_20240519215518_3: -1489187556
+      Tak berjudul136_20240519215518_30: -1825608047
+      Tak berjudul136_20240519215518_31: -497170769
+      Tak berjudul136_20240519215518_32: 1232320909
+      Tak berjudul136_20240519215518_33: 1923930219
+      Tak berjudul136_20240519215518_34: 159658870
+      Tak berjudul136_20240519215518_35: 246339414
+      Tak berjudul136_20240519215518_36: 564600022
+      Tak berjudul136_20240519215518_37: 1485207357
+      Tak berjudul136_20240519215518_38: 617775405
+      Tak berjudul136_20240519215518_39: -1593167276
+      Tak berjudul136_20240519215518_4: 1652777029
+      Tak berjudul136_20240519215518_40: -1956314093
+      Tak berjudul136_20240519215518_41: 1649217473
+      Tak berjudul136_20240519215518_42: 340181952
+      Tak berjudul136_20240519215518_43: -1209092725
+      Tak berjudul136_20240519215518_44: -1819740683
+      Tak berjudul136_20240519215518_45: -706048906
+      Tak berjudul136_20240519215518_46: 1734048058
+      Tak berjudul136_20240519215518_47: -1810607095
+      Tak berjudul136_20240519215518_48: 706118188
+      Tak berjudul136_20240519215518_49: 100413240
+      Tak berjudul136_20240519215518_5: 1241482855
+      Tak berjudul136_20240519215518_50: -1802736643
+      Tak berjudul136_20240519215518_51: -187527701
+      Tak berjudul136_20240519215518_52: 1402447553
+      Tak berjudul136_20240519215518_53: 805458344
+      Tak berjudul136_20240519215518_54: -565858872
+      Tak berjudul136_20240519215518_55: 1500112465
+      Tak berjudul136_20240519215518_56: 2085124685
+      Tak berjudul136_20240519215518_57: -1599553523
+      Tak berjudul136_20240519215518_58: 1948833767
+      Tak berjudul136_20240519215518_59: -102790544
+      Tak berjudul136_20240519215518_6: -1467270625
+      Tak berjudul136_20240519215518_60: 997927595
+      Tak berjudul136_20240519215518_61: -1368482905
+      Tak berjudul136_20240519215518_62: -1914538570
+      Tak berjudul136_20240519215518_63: -2144859468
+      Tak berjudul136_20240519215518_64: 2032034873
+      Tak berjudul136_20240519215518_65: 527142919
+      Tak berjudul136_20240519215518_66: -1685925815
+      Tak berjudul136_20240519215518_67: -1296041743
+      Tak berjudul136_20240519215518_68: -57389293
+      Tak berjudul136_20240519215518_69: 1921513811
+      Tak berjudul136_20240519215518_7: -1192565021
+      Tak berjudul136_20240519215518_70: -323825908
+      Tak berjudul136_20240519215518_71: -1754037089
+      Tak berjudul136_20240519215518_72: -211254318
+      Tak berjudul136_20240519215518_73: 1524034038
+      Tak berjudul136_20240519215518_74: -1080449146
+      Tak berjudul136_20240519215518_75: 1043604736
+      Tak berjudul136_20240519215518_76: -1858397289
+      Tak berjudul136_20240519215518_77: -927592793
+      Tak berjudul136_20240519215518_78: -1336149531
+      Tak berjudul136_20240519215518_79: -1547048098
+      Tak berjudul136_20240519215518_8: -1393822740
+      Tak berjudul136_20240519215518_80: -1395618084
+      Tak berjudul136_20240519215518_81: 1819627588
+      Tak berjudul136_20240519215518_82: -1435703780
+      Tak berjudul136_20240519215518_83: -1375352388
+      Tak berjudul136_20240519215518_84: -1626485011
+      Tak berjudul136_20240519215518_85: 1176482699
+      Tak berjudul136_20240519215518_86: 891433273
+      Tak berjudul136_20240519215518_87: 131873921
+      Tak berjudul136_20240519215518_88: -1155384048
+      Tak berjudul136_20240519215518_89: 1576562092
+      Tak berjudul136_20240519215518_9: -1064386385
+      Tak berjudul136_20240519215518_90: 251334508
+      Tak berjudul136_20240519215518_91: 2143117835
+      Tak berjudul136_20240519215518_92: -1263062554
+      Tak berjudul136_20240519215518_93: 2015781952
+      Tak berjudul136_20240519215518_94: -1418526715
+      Tak berjudul136_20240519215518_95: -1855749245
+      Tak berjudul136_20240519215518_96: -1434917367
+      Tak berjudul136_20240519215518_97: 1205717075
+      Tak berjudul136_20240519215518_98: -876147919
+      Tak berjudul136_20240519215518_99: -1244019628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
