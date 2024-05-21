@@ -9,6 +9,7 @@ public class PlayerHealth : MonoBehaviour
     public float health;
     public float maxHealth;
     public Image healthBar;
+    public Animator animator;
 
     // Start is called before the first frame update
     void Start()
@@ -23,8 +24,22 @@ public class PlayerHealth : MonoBehaviour
 
         if (health <= 0)
         {
-            Destroy(gameObject);
+            Die();
         }
 
+    }
+
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+
+        animator.SetTrigger("pHurt");
+    }
+
+    void Die()
+    {
+        animator.SetBool("pDead", true);
+
+        GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
     }
 }
