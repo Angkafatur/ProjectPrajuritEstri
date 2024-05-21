@@ -324,7 +324,7 @@ MonoBehaviour:
   rayCastMask:
     serializedVersion: 2
     m_Bits: 64
-  rayCastLenght: 5
+  rayCastLenght: 7
   attackDistance: 5
   moveSpeed: 3
   timer: 2
@@ -1247,7 +1247,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.2982235, y: -0.4509133}
+  m_Offset: {x: 0.8154888, y: -0.7406595}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1258,7 +1258,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 7.0609703, y: 2.5018237}
+  m_Size: {x: 7.042858, y: 2.6104784}
   m_EdgeRadius: 0
 --- !u!1 &439383365
 GameObject:
@@ -1838,7 +1838,7 @@ Transform:
   m_GameObject: {fileID: 538064369}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.53, y: -0.01, z: 0}
+  m_LocalPosition: {x: -2.09, y: -0.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

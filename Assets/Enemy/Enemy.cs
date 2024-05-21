@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-   public Animator animator;
+    public Animator animator;
 
     public int health = 100;
 
