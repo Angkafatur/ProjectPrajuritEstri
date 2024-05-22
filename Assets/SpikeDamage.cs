@@ -20,11 +20,11 @@ public class SpikeDamage : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision2D)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        if(collision2D.gameObject.CompareTag("Player"))
+        if(other.gameObject.CompareTag("Player"))
         {
-            collision2D.gameObject.GetComponent<PlayerHealth>().health -= damage;
+            other.gameObject.GetComponent<PlayerHealth>().health -= damage;
         }
     }
 }
