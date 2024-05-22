@@ -6,7 +6,7 @@ public class SpikeDamage : MonoBehaviour
 {
 
     public PlayerHealth pHealth;
-    public float damage;
+    public int damage;
 
     // Start is called before the first frame update
     void Start()
@@ -20,11 +20,11 @@ public class SpikeDamage : MonoBehaviour
         
     }
 
-    private void OnCollisionEnter2D(Collision2D other)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(other.gameObject.CompareTag("Player"))
+        if(collision.gameObject.CompareTag("Player"))
         {
-            other.gameObject.GetComponent<PlayerHealth>().health -= damage;
+            pHealth.TakeDamage(damage);
         }
     }
 }
