@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5d74917c05b45d2409023caa2d937d9c
+guid: da1ffd1bdaa934947b9858b8d516ae58
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: condroso [8]_0
+      name: run [12]_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68bfc709feb5bc74e9c4775104180f2b
-      internalID: 40254679
+      spriteID: d55335176998e2249a163803e0b19017
+      internalID: 194776140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: condroso [8]_1
+      name: run [12]_1
       rect:
         serializedVersion: 2
         x: 835
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad35472e037f93e45a94a2b4f59c034e
-      internalID: -692375988
+      spriteID: d3d2b934db5de0e4384572fa1baf7dfd
+      internalID: -159371942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: condroso [8]_2
+      name: run [12]_2
       rect:
         serializedVersion: 2
         x: 1670
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5668735fee7c30d4bacc3e11b9a3e765
-      internalID: -1100170349
+      spriteID: 1d537e7483213ac4ba6c1ead6d5ddb22
+      internalID: -411167084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: condroso [8]_3
+      name: run [12]_3
       rect:
         serializedVersion: 2
         x: 2505
@@ -187,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b416f89b5de90074ba6f5cbf2edea05e
-      internalID: 2104331079
+      spriteID: 37c54dbb3b1cf474c807c5d5645d8881
+      internalID: -185136002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: condroso [8]_4
+      name: run [12]_4
       rect:
         serializedVersion: 2
         x: 3340
@@ -208,14 +208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 096fe614a5daa8f498c02d6c40ebb81f
-      internalID: 1063032331
+      spriteID: 24a22160ec27ed64cbdfdb446740ff3b
+      internalID: 1010023598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: condroso [8]_5
+      name: run [12]_5
       rect:
         serializedVersion: 2
         x: 4175
@@ -229,14 +229,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39876f4379e2923428cb57c295af85e8
-      internalID: 342648483
+      spriteID: 6dce39b569b923843ab1775da82a0870
+      internalID: 1952199557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: condroso [8]_6
+      name: run [12]_6
       rect:
         serializedVersion: 2
         x: 5010
@@ -250,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe70567aca215074cb138e799f58f502
-      internalID: -1288032374
+      spriteID: 3332a688d0ad80d45abdb8bcffe4aafc
+      internalID: 2087591156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: condroso [8]_7
+      name: run [12]_7
       rect:
         serializedVersion: 2
         x: 5845
@@ -271,8 +271,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a35798bf606e3040803a6f26955d224
-      internalID: 1110329768
+      spriteID: f47ded1a908769b458172852d9cf04ee
+      internalID: 2011892678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run [12]_8
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 0
+        width: 835
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39756597c921d6844ba8fc6ce29484cf
+      internalID: 597681457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run [12]_9
+      rect:
+        serializedVersion: 2
+        x: 7515
+        y: 0
+        width: 835
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b5697a3873f2245a18781c0c127c79
+      internalID: 1134027474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run [12]_10
+      rect:
+        serializedVersion: 2
+        x: 8350
+        y: 0
+        width: 835
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812a3b23c7fa2f34e99d716d8bb5af11
+      internalID: -1498287782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run [12]_11
+      rect:
+        serializedVersion: 2
+        x: 9185
+        y: 0
+        width: 835
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec15e8f3e0ffd40bb29b5af524a804
+      internalID: -1815954803
       vertices: []
       indices: 
       edges: []
@@ -288,14 +372,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      condroso [8]_0: 40254679
-      condroso [8]_1: -692375988
-      condroso [8]_2: -1100170349
-      condroso [8]_3: 2104331079
-      condroso [8]_4: 1063032331
-      condroso [8]_5: 342648483
-      condroso [8]_6: -1288032374
-      condroso [8]_7: 1110329768
+      run [12]_0: 194776140
+      run [12]_1: -159371942
+      run [12]_10: -1498287782
+      run [12]_11: -1815954803
+      run [12]_2: -411167084
+      run [12]_3: -185136002
+      run [12]_4: 1010023598
+      run [12]_5: 1952199557
+      run [12]_6: 2087591156
+      run [12]_7: 2011892678
+      run [12]_8: 597681457
+      run [12]_9: 1134027474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
