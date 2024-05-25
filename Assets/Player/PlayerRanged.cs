@@ -12,10 +12,23 @@ public class PlayerWeapon : MonoBehaviour
     public float shotRate = 2f;
     float nextShotTime = 0f;
 
+    private Rigidbody2D rb;
+
+
+    private void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
 
     // Update is called once per frame
     void Update()
     {
+        if(rb.bodyType == RigidbodyType2D.Static)
+        {
+            return;
+        }
+
+
         if(Time.time > nextShotTime)
         {
             if (Input.GetButtonDown("Fire1"))
