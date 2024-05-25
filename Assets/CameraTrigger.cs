@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class CameraTrigger : MonoBehaviour
 {
+    public Cinemachine.CinemachineVirtualCamera Camera;
+
     // Start is called before the first frame update
     void Start()
     {
