@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd0a2c2a8e8fe84419b2abf43cc7f529
-      internalID: -550034219
+      spriteID: ea3f151708224854fba97b642d45225b
+      internalID: -2112682689
       vertices: []
       indices: 
       edges: []
@@ -145,8 +145,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f67eba1d18bfff24299b1def9830271e
-      internalID: 1927170305
+      spriteID: d4c93f8f4a1ab7243b7c2588bfc2c731
+      internalID: 182007657
       vertices: []
       indices: 
       edges: []
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e42b3e7ef1df3c4895ffe96d33c33f8
-      internalID: -481496831
+      spriteID: c9c64169839183c4b963dd9b00eeb929
+      internalID: 556206931
       vertices: []
       indices: 
       edges: []
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 227e5c5611560e24e8d4b4659f185c6a
-      internalID: -795769260
+      spriteID: 25c4b16b91ccaef45a1cef1f5932e2f5
+      internalID: 1828991135
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      arrow [4]_0: -550034219
-      arrow [4]_1: 1927170305
-      arrow [4]_2: -481496831
-      arrow [4]_3: -795769260
+      arrow [4]_0: -2112682689
+      arrow [4]_1: 182007657
+      arrow [4]_2: 556206931
+      arrow [4]_3: 1828991135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

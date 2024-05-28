@@ -179,11 +179,11 @@ public class EnemyMovement : MonoBehaviour
         Vector3 rotation = transform.eulerAngles;
         if(transform.position.x > target.position.x)
         {
-            rotation.y = 180f;
+            rotation.y = 0f;
         }
         else
         {
-            rotation.y = 0f;
+            rotation.y = 180f;
         }
 
         transform.eulerAngles = rotation;
