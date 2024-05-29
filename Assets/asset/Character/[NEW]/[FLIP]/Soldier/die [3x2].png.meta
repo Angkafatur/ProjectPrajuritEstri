@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: die [3x2]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 538.5
+        width: 1026
+        height: 538.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab12087610e53914b9594277fa347cd4
+      internalID: -117797901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die [3x2]_1
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 538.5
+        width: 1026
+        height: 538.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d4665e34c4a645967c7b76d5f6a81
+      internalID: -316904897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die [3x2]_2
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 538.5
+        width: 1026
+        height: 538.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad7b7e0c6e12c47b1322c9d4808f8a
+      internalID: 1973256150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die [3x2]_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 1026
+        height: 538.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0708af85be0aea34d98dd4395e248602
+      internalID: -588735105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die [3x2]_4
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0.5
+        width: 1026
+        height: 538.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b19a5dac4b1d342b34a0eb1a5db140
+      internalID: 976390911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die [3x2]_5
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0.5
+        width: 1026
+        height: 538.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc5cd59c85af2d499eff1c930ea5b82
+      internalID: -1127850862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +245,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      die [3x2]_0: -117797901
+      die [3x2]_1: -316904897
+      die [3x2]_2: 1973256150
+      die [3x2]_3: -588735105
+      die [3x2]_4: 976390911
+      die [3x2]_5: -1127850862
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

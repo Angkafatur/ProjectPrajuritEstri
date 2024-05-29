@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.PackageManager;
 using UnityEngine;
 
 public class EnemyBullet : MonoBehaviour
@@ -18,10 +19,16 @@ public class EnemyBullet : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D hitInfo)
     {
-        PlayerHealth pHealth = hitInfo.GetComponent<PlayerHealth>();
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        PlayerHealth pHealth = collision.gameObject.GetComponent<PlayerHealth>();
         if (pHealth != null)
         {
             pHealth.TakeDamage(damage);
+            Debug.Log("hit");
         }
         Destroy(gameObject);
     }

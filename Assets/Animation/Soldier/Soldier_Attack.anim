@@ -21,13 +21,13 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 1173456135, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
+      value: {fileID: 998462371, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
     - time: 0.2
-      value: {fileID: 1554135398, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
+      value: {fileID: 1858570218, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
     - time: 0.4
-      value: {fileID: 575063720, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
+      value: {fileID: -1562214305, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
     - time: 0.6
-      value: {fileID: -1475340090, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
+      value: {fileID: -1356509368, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,10 +50,10 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 1173456135, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
-    - {fileID: 1554135398, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
-    - {fileID: 575063720, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
-    - {fileID: -1475340090, guid: bf29d7a3a9b18cd47ac7bdee04e6ddf5, type: 3}
+    - {fileID: 998462371, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
+    - {fileID: 1858570218, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
+    - {fileID: -1562214305, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
+    - {fileID: -1356509368, guid: 9a84ed81bd931d04b983e4ada6e6c548, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -79,6 +79,13 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
+  - time: 0.4
+    functionName: SoldierShoot
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
   - time: 0.6
     functionName: TriggerCooling
     data: 

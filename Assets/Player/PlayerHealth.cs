@@ -24,7 +24,7 @@ public class PlayerHealth : MonoBehaviour
     void Update()
     {
         healthBar.fillAmount = Mathf.Clamp(health / maxHealth, 0, 1);
-        Debug.Log(healthBar.rectTransform.rect.width * healthBar.fillAmount);
+        //Debug.Log(healthBar.rectTransform.rect.width * healthBar.fillAmount);
         if (health <= 0)
         {
             Die();
@@ -44,5 +44,7 @@ public class PlayerHealth : MonoBehaviour
         animator.SetBool("pDead", true);
         animator.SetBool("pLife", false);
         GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+        GetComponent<BoxCollider2D>() .enabled = false;
+        GetComponent<CircleCollider2D>().enabled = false;
     }
 }

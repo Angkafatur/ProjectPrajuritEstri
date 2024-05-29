@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Runtime.CompilerServices;
 using UnityEditor.SearchService;
 using UnityEditor.Tilemaps;
@@ -16,6 +17,9 @@ public class EnemyMovement : MonoBehaviour
     public float timer;
     public Transform patrolLeft;
     public Transform patrolRight;
+    public GameObject sBullet;
+    public Transform enemyShotPoint;
+    public Rigidbody2D rb;
 
     private RaycastHit2D hit;
     private Transform target;
@@ -25,18 +29,21 @@ public class EnemyMovement : MonoBehaviour
     private bool inRange;
     private bool cooling;
     private float intTimer;
+    private Transform playerTransform;
 
     void Awake()
     {
         SelectTarget();
         intTimer = timer;
         animator = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+        playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (attackMode)
+        if (!attackMode)
         {
             Move();
         }
@@ -45,10 +52,26 @@ public class EnemyMovement : MonoBehaviour
         {
             SelectTarget();
         }
+        else if (inRange) 
+        {
+            target = playerTransform;
+            Flip();
+
+        }
 
         if(inRange) 
         {
-            hit = Physics2D.Raycast(rayCast.position, transform.right, rayCastLenght, rayCastMask);
+            Vector2 raycastDirection;
+            if (transform.position.x < target.position.x)
+            {
+                raycastDirection = Vector2.right;
+            }
+            else
+            {
+                raycastDirection = Vector2.left;
+            }
+
+            hit = Physics2D.Raycast(rayCast.position, raycastDirection, rayCastLenght, rayCastMask);
             RayCastDebugger();
         }
 
@@ -101,14 +124,23 @@ public class EnemyMovement : MonoBehaviour
     {
         if (!animator.GetCurrentAnimatorStateInfo(0).IsName("Enemy_sAttack"))
         {
-            Vector2 targetPosition = new Vector2(target.position.x, target.transform.position.y);
-
-            transform.position = Vector2.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
+            int moveDirection;
+            if (transform.position.x < target.position.x)
+            {
+                moveDirection = 1;
+            }
+            else
+            {
+                moveDirection = -1;
+            }
+            rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
+            animator.SetFloat("sSpeed", 0.02f);
         }
     }
 
     void Attack()
     {
+        
         timer = intTimer;
         attackMode = true;
 
@@ -133,6 +165,11 @@ public class EnemyMovement : MonoBehaviour
 
         animator.SetBool("sAttack", false);
 
+    }
+
+    void SoldierShoot()
+    {
+        Instantiate(sBullet, enemyShotPoint.position, enemyShotPoint.rotation);
     }
 
     void RayCastDebugger()
@@ -170,6 +207,7 @@ public class EnemyMovement : MonoBehaviour
         {
             target = patrolRight;
         }
+        target.transform.position = new Vector2(target.transform.position.x, transform.position.y);
 
         Flip();
     }
@@ -177,7 +215,7 @@ public class EnemyMovement : MonoBehaviour
     private void Flip()
     {
         Vector3 rotation = transform.eulerAngles;
-        if(transform.position.x > target.position.x)
+        if(transform.position.x < target.position.x)
         {
             rotation.y = 0f;
         }

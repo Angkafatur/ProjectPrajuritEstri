@@ -9,6 +9,7 @@ public class BossBullet : MonoBehaviour
 
     [SerializeField] private float speed;
     [SerializeField] private string targettag;
+    [SerializeField] Rigidbody2D rb;
 
     // Start is called before the first frame update
     void Start()
@@ -20,11 +21,6 @@ public class BossBullet : MonoBehaviour
     void Update()
     {
         transform.Translate(direction * speed * Time.deltaTime);
-    }
-
-    public void Setup(Vector2 direction)
-    {
-        this.direction = direction;
     }
 
     public void OnBecameInvisible()
