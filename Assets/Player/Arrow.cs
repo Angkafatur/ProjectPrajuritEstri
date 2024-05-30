@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.PackageManager;
 using UnityEngine;
 
 public class Arrow : MonoBehaviour
@@ -16,14 +17,13 @@ public class Arrow : MonoBehaviour
         rb.velocity = transform.right * speed;
     }
 
-    void OnTriggerEnter2D(Collider2D hitInfo)
+    private void OnCollisionEnter2D(Collision2D hitInfo)
     {
-        Enemy enemy = hitInfo.GetComponent<Enemy>();
+        Enemy enemy = hitInfo.gameObject.GetComponent<Enemy>();
         if (enemy != null)
         {
             enemy.TakeDamage(damage);
         }
         Destroy(gameObject);
     }
-
 }

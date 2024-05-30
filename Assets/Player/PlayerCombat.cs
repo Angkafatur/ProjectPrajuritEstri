@@ -32,13 +32,19 @@ public class PlayerCombat : MonoBehaviour
 
     void Attack()
     {
-        animator.SetTrigger("pCombat");
+        if (animator != null)
+            animator.SetTrigger("pCombat");
 
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
-
-        foreach(Collider2D enemy in hitEnemies)
+        if (attackPoint != null)
         {
-            enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+
+            foreach (Collider2D enemy in hitEnemies)
+            {
+                Enemy enemyComponent = enemy.GetComponent<Enemy>();
+                if (enemyComponent != null) 
+                    enemyComponent.TakeDamage(attackDamage);
+            }
         }
     }
 
