@@ -10,7 +10,6 @@ public class PlayerHealth : MonoBehaviour
     public float maxHealth;
     public Image healthBar;
     public Animator animator;
-    public PlayerRespawn pRes;
 
     [SerializeField] Image healthbarImage;
 
@@ -29,7 +28,6 @@ public class PlayerHealth : MonoBehaviour
         if (health <= 0)
         {
             Die();
-            pRes.RespawnNow();
         }
 
     }
@@ -39,11 +37,6 @@ public class PlayerHealth : MonoBehaviour
         health -= damage;
         
         animator.SetTrigger("pHurt");
-    }
-
-    private void UpdateHealth()
-    {
-        healthBar.fillAmount = health / maxHealth;
     }
 
     void Die()
