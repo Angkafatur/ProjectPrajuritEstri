@@ -1,13 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq.Expressions;
-using System.Runtime.CompilerServices;
-using UnityEditor.SearchService;
-using UnityEditor.Tilemaps;
 using UnityEngine;
-using UnityEngine.Experimental.GlobalIllumination;
 
-public class EnemyMovement : MonoBehaviour
+public class EnemyMovementCommander : MonoBehaviour
 {
     public Transform rayCast;
     public LayerMask rayCastMask;
@@ -17,9 +12,10 @@ public class EnemyMovement : MonoBehaviour
     public float timer;
     public Transform patrolLeft;
     public Transform patrolRight;
-    public GameObject sBullet;
-    public Transform enemyShotPoint;
     public Rigidbody2D rb;
+    public int attackDamage = 20;
+    public Transform attackPoint;
+    public float attackRange;
 
     private RaycastHit2D hit;
     private Transform target;
@@ -48,18 +44,18 @@ public class EnemyMovement : MonoBehaviour
             Move();
         }
 
-        if (!InsideofPatrol() && !inRange && !animator.GetCurrentAnimatorStateInfo(0).IsName("Enemy_sAttack"))
+        if (!InsideofPatrol() && !inRange && !animator.GetCurrentAnimatorStateInfo(0).IsName("Enemy Commander_sAttack"))
         {
             SelectTarget();
         }
-        else if (inRange) 
+        else if (inRange)
         {
             target = playerTransform;
             Flip();
 
         }
 
-        if(inRange) 
+        if (inRange)
         {
             Vector2 raycastDirection;
             if (transform.position.x < target.position.x)
@@ -75,16 +71,16 @@ public class EnemyMovement : MonoBehaviour
             RayCastDebugger();
         }
 
-        if(hit.collider != null) 
+        if (hit.collider != null)
         {
             EnemyLogic();
         }
-        else if(hit.collider == null)
+        else if (hit.collider == null)
         {
             inRange = false;
         }
 
-        if(inRange == false)
+        if (inRange == false)
         {
             StopAttack();
         }
@@ -92,7 +88,7 @@ public class EnemyMovement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D trig)
     {
-        if(trig.gameObject.tag == "Player")
+        if (trig.gameObject.tag == "Player")
         {
             target = trig.transform;
             inRange = true;
@@ -103,26 +99,26 @@ public class EnemyMovement : MonoBehaviour
     void EnemyLogic()
     {
         distance = Vector2.Distance(transform.position, target.position);
-        
-        if(distance > attackDistance)
+
+        if (distance > attackDistance)
         {
             StopAttack();
         }
-        else if(attackDistance >= distance && cooling == false)
+        else if (attackDistance >= distance && cooling == false)
         {
             Attack();
         }
 
-        if(cooling)
+        if (cooling)
         {
             Cooldown();
-            animator.SetBool("sAttack", false);
+            animator.SetBool("cAttack", false);
         }
     }
 
     void Move()
     {
-        if (!animator.GetCurrentAnimatorStateInfo(0).IsName("Enemy_sAttack"))
+        if (!animator.GetCurrentAnimatorStateInfo(0).IsName("Enemy Commander_cAttack"))
         {
             int moveDirection;
             if (transform.position.x < target.position.x)
@@ -139,18 +135,16 @@ public class EnemyMovement : MonoBehaviour
 
     void Attack()
     {
-        
-        timer = intTimer;
-        attackMode = true;
-
-        animator.SetBool("sAttack", true);
+            timer = intTimer;
+            attackMode = true;
+            animator.SetBool("cAttack", true);
     }
 
     void Cooldown()
     {
         timer -= Time.deltaTime;
 
-        if(timer <= 0 && cooling && attackMode)
+        if (timer <= 0 && cooling && attackMode)
         {
             cooling = false;
             timer = intTimer;
@@ -162,22 +156,26 @@ public class EnemyMovement : MonoBehaviour
         cooling = false;
         attackMode = false;
 
-        animator.SetBool("sAttack", false);
+        animator.SetBool("cAttack", false);
 
     }
 
-    void SoldierShoot()
+    void Melee()
     {
-        Instantiate(sBullet, enemyShotPoint.position, enemyShotPoint.rotation);
+        Collider2D[] hitPlayers = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, rayCastMask);
+        foreach (Collider2D player in hitPlayers)
+        {
+            player.GetComponent<PlayerHealth>().TakeDamage(attackDamage);
+        }
     }
 
     void RayCastDebugger()
     {
-        if(distance > attackDistance)
+        if (distance > attackDistance)
         {
             Debug.DrawRay(rayCast.position, transform.right * rayCastLenght, Color.red);
         }
-        else if(attackDistance > distance)
+        else if (attackDistance > distance)
         {
             Debug.DrawRay(rayCast.position, transform.right * rayCastLenght, Color.green);
         }
@@ -214,7 +212,7 @@ public class EnemyMovement : MonoBehaviour
     private void Flip()
     {
         Vector3 rotation = transform.eulerAngles;
-        if(transform.position.x < target.position.x)
+        if (transform.position.x < target.position.x)
         {
             rotation.y = 0f;
         }
@@ -224,5 +222,13 @@ public class EnemyMovement : MonoBehaviour
         }
 
         transform.eulerAngles = rotation;
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        if (attackPoint == null)
+            return;
+
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 }

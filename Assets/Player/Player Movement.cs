@@ -20,6 +20,20 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private Rigidbody2D rb;
 
+    void Start()
+    {
+        // Ensure Rigidbody2D is not null and set properly
+        if (rb == null)
+        {
+            rb = GetComponent<Rigidbody2D>();
+        }
+
+        if (rb == null)
+        {
+            Debug.LogError("Rigidbody2D component not found on " + gameObject.name);
+        }
+    }
+
 
     // Update is called once per frame
     void Update()
@@ -70,7 +84,7 @@ public class PlayerMovement : MonoBehaviour
         canDash = false;
         isDashing = true;
         float originalGravity = rb.gravityScale;
-        rb.gravityScale = 1f;
+        rb.gravityScale = 0f;
         rb.velocity = new Vector2(Mathf.Sign(transform.rotation.y) * dashingPower, 0f);
         yield return new WaitForSeconds(dashingTime);
         rb.gravityScale = originalGravity;

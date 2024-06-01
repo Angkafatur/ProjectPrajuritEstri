@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public Animator animator;
     public int health = 100;
+    public EnemyMovementCommander commander;
 
 
     public void TakeDamage(int damage)
@@ -25,8 +26,9 @@ public class Enemy : MonoBehaviour
         animator.SetBool("isDead", true);
 
         GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
-        GetComponent<Collider2D>().enabled = false;
+        GetComponent<CapsuleCollider2D>().enabled = false;
         this.enabled = false;
+        commander.enabled = false;
     }
 
 }
