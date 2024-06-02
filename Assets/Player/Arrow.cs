@@ -20,9 +20,17 @@ public class Arrow : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D hitInfo)
     {
         Enemy enemy = hitInfo.gameObject.GetComponent<Enemy>();
+       
         if (enemy != null)
         {
             enemy.TakeDamage(damage);
+        }
+
+        Commander commander = hitInfo.gameObject.GetComponent<Commander>();
+
+        if (commander != null)
+        {
+            commander.TakeDamage(damage);
         }
         Destroy(gameObject);
     }

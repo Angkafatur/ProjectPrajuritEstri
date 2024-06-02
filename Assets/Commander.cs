@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Commander : MonoBehaviour
 {
     public Animator animator;
     public int health = 100;
@@ -30,5 +30,4 @@ public class Enemy : MonoBehaviour
         this.enabled = false;
         commander.enabled = false;
     }
-
 }

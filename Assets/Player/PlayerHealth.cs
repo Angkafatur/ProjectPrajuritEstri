@@ -39,6 +39,18 @@ public class PlayerHealth : MonoBehaviour
         animator.SetTrigger("pHurt");
     }
 
+    public void Heal(int amount)
+    {
+        health += amount;
+        if (health > maxHealth)
+        {
+            health = maxHealth;
+        }
+
+        // Tambahkan efek visual atau suara saat penyembuhan di sini jika perlu
+        Debug.Log("Player healed, current health: " + health);
+    }
+
     void Die()
     {
         animator.SetBool("pDead", true);
