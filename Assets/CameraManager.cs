@@ -25,6 +25,7 @@ public class CameraManager : MonoBehaviour
             if(cam != newCamera)
             {
                 cam.Priority = 0;
+
             }
         }
     }

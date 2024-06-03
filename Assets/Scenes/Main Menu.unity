@@ -1709,7 +1709,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: bf0c11227fc63bf428f7d505dad7baae, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -5748,7 +5748,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1161397159
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7055,9 +7055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a3ff99b41ea9fc4e86d5d7957396688, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  suaraSounds:
-  - name: Thema
-    clip: {fileID: 8300000, guid: ee6d8a9d836adc9489f32494ae68e9e6, type: 3}
+  suaraSounds: []
   suaraSource: {fileID: 336852642}
 --- !u!1 &1596074276
 GameObject:

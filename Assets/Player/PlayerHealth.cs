@@ -10,8 +10,11 @@ public class PlayerHealth : MonoBehaviour
     public float maxHealth;
     public Image healthBar;
     public Animator animator;
+    public Kalah kalah;
+    public Menang menang;
 
-    [SerializeField] Image healthbarImage;
+    private bool isDead;
+    private bool isWin;
 
     // Start is called before the first frame update
     void Start()
@@ -28,6 +31,7 @@ public class PlayerHealth : MonoBehaviour
         if (health <= 0)
         {
             Die();
+            kalah.gameOver();
         }
 
     }
@@ -58,5 +62,16 @@ public class PlayerHealth : MonoBehaviour
         GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
         GetComponent<BoxCollider2D>() .enabled = false;
         GetComponent<CircleCollider2D>().enabled = false;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        // Jika pemain menabrak objek persegi kemenangan
+        if (other.gameObject.CompareTag("BossZone") && !isWin)
+        {
+            isWin = true;
+            menang.gameWin();
+            Debug.Log("Win");
+        }
     }
 }

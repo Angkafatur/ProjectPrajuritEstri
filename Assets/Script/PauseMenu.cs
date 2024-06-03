@@ -7,7 +7,6 @@ public class PauseMenu : MonoBehaviour
     [SerializeField] GameObject pauseMenu;
     public Button resumeButton; // Referensi ke tombol Resume
     public Button restartButton;  // Referensi ke tombol Settings
-    public Button settingsButton;
     public Button homeButton;
 
     private bool isPaused = false;
@@ -17,10 +16,12 @@ public class PauseMenu : MonoBehaviour
     void Start()
     {
         // Inisialisasi array tombol
-        buttons = new Button[] { resumeButton, restartButton, settingsButton, homeButton };
+        buttons = new Button[] { resumeButton, restartButton, homeButton };
 
         // Menonaktifkan menu pause saat game dimulai
         pauseMenu.SetActive(false);
+
+        Time.timeScale = 1;
     }
 
     void Update()
