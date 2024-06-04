@@ -31,7 +31,7 @@ public class PlayerHealth : MonoBehaviour
         if (health <= 0)
         {
             Die();
-            kalah.gameOver();
+            StartCoroutine(TillDie());
         }
 
     }
@@ -73,5 +73,11 @@ public class PlayerHealth : MonoBehaviour
             menang.gameWin();
             Debug.Log("Win");
         }
+    }
+
+    IEnumerator TillDie()
+    {
+        yield return new WaitForSeconds(3);
+        kalah.gameOver();
     }
 }
